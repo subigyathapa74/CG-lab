@@ -1,0 +1,4 @@
+Title: Introduction to Computer Graphics and Basic Drawing Using C
+
+Conclusion
+This laboratory session helped us understand the fundamentals of computer graphics using the C programming language. We learned how to initialize and use the graphics.h library to create basic graphical outputs. Through practical implementation, we were able to draw basic shapes such as pixels, lines, and circles, and understand how graphical functions work internally. The experiment also familiarized us with important functions like graphics initialization, drawing commands, and properly closing the graphics mode. Overall, this lab provided a strong foundation for understanding basic computer graphics concepts and their practical applications.
